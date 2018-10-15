@@ -25,4 +25,13 @@ Example (35 individuals, 8 Fragments):
 
 
 Reference
-Nei M (1972) Genetic distance between populations. Am Nat 106:283-292
+Nei M (1972) Genetic distance between populations. Am Nat 106:283-292  
+  
+  
+  
+Technical Info  
+Based on Google Web Toolkit (GWT)  
+Last tested version: GWT 2.7.0 with Java 8  
+  
+  
+
